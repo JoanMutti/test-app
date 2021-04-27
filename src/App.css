@@ -14,7 +14,16 @@
 	padding: 16px;
 }
 
+.App-content h1 {
+	font-size: 50px;
+}
+
 a {
 	color: #09f;
 	font-size: 32px;
+}
+
+button {
+	width: 100px;
+	height: 40px;
 }
